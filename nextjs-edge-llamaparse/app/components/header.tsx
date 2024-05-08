@@ -15,7 +15,7 @@ export default function Header() {
           <span>Built by EnergyStrategies</span>
           <Image
             className="rounded-xl"
-            src="/llama.png"
+            src="/logo_white.png"
             alt="Llama Logo"
             width={40}
             height={40}
