@@ -17,8 +17,8 @@ export default function Header() {
             className="rounded-xl"
             src="/logo_white.png"
             alt="Llama Logo"
-            width={40}
-            height={40}
+            width={80}
+            height={80}
             priority
           />
         </a>
